@@ -8,6 +8,7 @@ body {
 main {
   padding: 24px;
   padding-bottom: 124px;
+  background: yellow;
 }
 
 footer {

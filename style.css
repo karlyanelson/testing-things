@@ -3,6 +3,7 @@ body {
   padding: 0;
   margin: 0;
   -webkit-overflow-scrolling: touch;
+  font-size: 2rem;
 }
 
 main {
@@ -20,4 +21,12 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0;
+}
+
+header {
+  background: gray;
+}
+
+h1 {
+  color: red;
 }

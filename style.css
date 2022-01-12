@@ -1,0 +1,22 @@
+body {
+  background: lightgray;
+  padding: 0;
+  margin: 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+main {
+  padding: 24px;
+  padding-bottom: 124px;
+}
+
+footer {
+  box-sizing: border-box;
+  height: 100px;
+  background: red;
+  color: white;
+  padding: 24px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
